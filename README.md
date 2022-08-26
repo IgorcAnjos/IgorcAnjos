@@ -1,19 +1,21 @@
-<h2 align = "center" >Olá, eu sou Igor Anjos.</h2>
+<h2 align = "center" >Igor Anjos.</h2>
 
-<h3 align = "center" >📘 Atualmente estudante de marketing e aprendo sobre programação nas horas vagas 💻</h3>
+<h3 align = "center" >Desenvolvedor Web em construção</h3>
 <div align = "center">
   <a href="https://github.com/IgorcAnjos">
-  <img align = "center" height="150em" src="https://github-readme-stats.vercel.app/api?username=IgorcAnjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align = "center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorcAnjos&layout=compact&langs_count=7&theme=dracula"/>
+  <img align = "center" width="49%" src="https://github-readme-stats.vercel.app/api?username=IgorcAnjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align = "center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorcAnjos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
   ##
   
  <div align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-Js"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Igor-React"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Igor-HTML"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-Python"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 </div>
  
    ##
