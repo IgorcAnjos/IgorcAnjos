@@ -1,31 +1,179 @@
-## 💫 About Me:
+👋 Hey, I'm Igor! 🚀
+I'm a Full Stack Developer passionate about technology and innovation, with over 3 years of experience building scalable and efficient solutions for the financial sector. Currently, I work with banking integrations, payment automation, and developing robust systems for fintechs.
 
-👨‍💻 Currently I work as a Full Stack developer at Trinus Co.<br>
-🌱 I am currently increasing my knowledge in socket, systems architecture and amqp protocol for messaging
+## 💰 Interests:
 
-## 🌐 Socials:
+Fintechs, Web3, Cryptocurrencies, Payment Gateways, and Financial Services.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igoranjos14/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&)](https://www.instagram.com/igorcatulio/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](tomail:igorcatuliodosanjos@gmail.com)
+## 🚀 Experienced in:
+
+Microservices, Software Architecture, Clean Code, DDD, TDD, Messaging (RabbitMQ, AMQP), Cloud (AWS S3, Azure Blob Storage).
+
+## 💡 What do I do?
+
+✔ Banking integrations (PIX, TED, Boletos)</br>
+✔ High-performance and scalable APIs</br>
+✔ Modular architectures and legacy system maintenance</br>
+✔ Unit and integration testing for software quality</br>
+✔ Continuous improvement and performance optimization
+
+## 📫 Let’s connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/igoranjos14/" >
+    <img alt="Linkedin"
+    height="48px" width="48px" align="center"
+    src="https://api.iconify.design/logos/linkedin-icon.svg"
+    />  
+  </a>
+  <a href="https://www.instagram.com/igorcatulio/" >
+    <img alt="Linux"
+    height="48px" width="48px" align="center"
+    src="https://api.iconify.design/logos/instagram-icon.svg"
+    /> 
+  </a>
+  <a href="mailto:igoranjos.dev@gmail.com?subject=Contact from github">
+    <img alt="Linux"
+    height="48px" width="48px" align="center"
+    src="https://api.iconify.design/logos/google-gmail.svg"
+    /> 
+  </a>
+</div>
 
 ## 💻 Tech Stack:
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <img alt="Linux"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/linux-tux.svg"
+  />
+  <img alt="Windows"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/microsoft-windows-icon.svg"
+  />
+  </br id="so-languager">
+   <img alt="Java"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/java.svg"
+  />
+  <img alt="TypeScript"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos:typescript-icon.svg"
+  />
+  <img alt="JavaScript"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/javascript.svg"
+  />
+  </br id="languages-back">
+  <img alt="NestJs"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/nestjs.svg"
+  />
+  <img alt="NodeJS"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/nodejs-icon.svg"
+  />
+  <img alt="Express"
+   height="48px" width="48px" align="center"
+   src="https://api.iconify.design/logos/express.svg"
+   />
+  <img alt="Spring"
+   height="48px" width="48px" align="center"
+   src="https://api.iconify.design/logos/spring-icon.svg"
+   />
+  </br id="back-db">
+    <img alt="Sql Server"
+  height="48px" width="48px" align="center"
+  src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"
+  />
+  <img alt="MySQL"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/mysql-icon.svg"
+  />
+  <img alt="Postgres"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/postgresql.svg"
+  />
+  <img alt="SQLite"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/sqlite.svg"
+  />
+  </br id="db-front">
+  <img alt="React"
+   height="48px" width="48px" align="center"
+   src="https://api.iconify.design/logos/react.svg"
+   />
+  <img alt="React"
+   height="48px" width="48px" align="center"
+   src="https://api.iconify.design/logos/nextjs-icon.svg"
+   />
+  <img alt="Redux"
+   height="48px" width="48px" align="center"
+   src="https://api.iconify.design/logos/redux.svg"
+   />
+  <img alt="Angular"
+   height="48px" width="48px" align="center"
+   src="https://api.iconify.design/logos/angular-icon.svg"
+   />
+  <img alt="Bootstrap"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/bootstrap.svg"
+  />
+  <img alt="TailwindCSS"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/tailwindcss-icon.svg"
+  />
+  <img alt="Figma"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/figma.svg"
+  />
+  </br id="front-tools">
+  <img alt="NPM"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/npm.svg"
+  />
+  <img alt="Yarn"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/yarn.svg"
+  />
+  <img alt="PNPM"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/pnpm.svg"
+  />
+  <img alt="Swagger"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/swagger.svg"
+  />
+  <img alt="OpenAPI"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/openapi-icon.svg"
+  />
+  <img alt="Postman"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/postman-icon.svg"
+  />
+  <img alt="Eslint"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/eslint.svg"
+  />
+  <img alt="Prettier"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/prettier.svg"
+  />
+  <img alt="RabitMQ"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/rabbitmq-icon.svg"
+  />
+  <img alt="AWS"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/aws.svg"
+  />
+  <img alt="AWS S3"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/aws-s3.svg"
+  />
+  <img alt="Azure"
+  height="48px" width="48px" align="center"
+  src="https://api.iconify.design/logos/microsoft-azure.svg"
+  />
+</p>
